@@ -19,12 +19,13 @@ Current build status
 
 
 <table>
+    
   <tr>
     <td>Azure</td>
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23599&branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23605&branchName=main">
             <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libnvpl-lapack-feedstock?branchName=main">
           </a>
         </summary>
@@ -33,7 +34,7 @@ Current build status
           <tbody><tr>
               <td>linux_aarch64</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23599&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=23605&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libnvpl-lapack-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_" alt="variant">
                 </a>
               </td>

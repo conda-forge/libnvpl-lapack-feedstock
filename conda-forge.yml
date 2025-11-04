@@ -13,4 +13,4 @@ bot:
   version_updates:
     nvidia:
       compute_subdir: nvpl
-      json_name: nvpl_blas
+      json_name: nvpl_lapack
